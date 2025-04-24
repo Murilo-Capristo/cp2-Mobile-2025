@@ -17,7 +17,6 @@ Aplicativo desenvolvido como parte do projeto CP2 - 2025.
 - TypeScript
 - Android Studio (Emulador)
 - Node.js
-- API REST (backend separado)
 
 ---
 
